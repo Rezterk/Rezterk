@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Enzo Kretzer
 
-- 🌱 Estudando tudo
-- 😄 Pronouns: ele/dele
+- 📚 Cursando Ciência da Computação na UFSC.
+- 🐍 Aprendendo Python.
 
 <div align="center">
   <a href="https://github.com/Rezterk">
