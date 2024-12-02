@@ -1,4 +1,4 @@
-### Olá! Eu sou o Enzo Kretzer
+### Olá!
 
 - 📚 Cursando Ciência da Computação na UFSC.
 - 🐍 Aprendendo Python.
